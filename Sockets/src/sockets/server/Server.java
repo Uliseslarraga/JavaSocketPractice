@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 import sockets.conection.Conection;
 
-public class Server extends Conection{
+public class Server extends Conection {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(Server.class);
 	
